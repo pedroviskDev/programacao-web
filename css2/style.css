@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background: url('nebulosaa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.descricao{
+    text-align: center;
+    border: 5px solid rgb(255, 189, 66);
+    border-radius: 16px;
+    width: 20%;
+    color: white;
+    margin: 10% 5%;
+}
