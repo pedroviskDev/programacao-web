@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+div.blue { width:100px; height:200px; background-color:blue;}
+div.yellow { width:100px; height:150px; background-color:yellow; position: relative;}
+div.red { width:100px; height:150px; background-color:red; position: relative;}
+div.green { width:200px; height:50px; background-color:green; position: relative;}
+
+
+.yellow{
+    top: -200px;
+    right: -100px;
+}
+
+.red{
+    top: -350px;
+    right: -200px;
+}
+
+.green{
+    top: -350px;
+    right: -100px;
+}
